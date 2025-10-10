@@ -166,7 +166,7 @@ Polymorphism diterapkan dalam program ini melalui **Method Overloading** dan **M
 
 ### *3. File SQL
 
-* data pertama sql
+* DB hasil percobaan query
 
   <img width="1919" height="970" alt="Screenshot 2025-10-10 220014" src="https://github.com/user-attachments/assets/c804c8ac-9d70-4a92-a9c0-971b0ad15e8b" />
 
